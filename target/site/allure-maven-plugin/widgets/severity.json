@@ -1,0 +1,1 @@
+[{"uid":"259259b1bfbd43a1","name":"Полный сценарий оплаты услуг связи","time":{"start":1777986080297,"stop":1777986427573,"duration":347276},"status":"passed","severity":"critical"},{"uid":"fee40e63edda24a2","name":"Проверка плейсхолдеров в форме оплаты","time":{"start":1777986066946,"stop":1777986080186,"duration":13240},"status":"passed","severity":"normal"}]

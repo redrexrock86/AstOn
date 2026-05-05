@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 05 16:01:06 MSK 2026","Tue May 05 16:01:20 MSK 2026","13240","","by.mts.tests.FullPaymentBlockTest","","by.mts.tests.FullPaymentBlockTest","placeholdersShouldBeCorrect","Проверка плейсхолдеров в форме оплаты","Проверяет, что поля 'Номер телефона' и 'Сумма' имеют правильные подписи"
+"passed","Tue May 05 16:01:20 MSK 2026","Tue May 05 16:07:07 MSK 2026","347276","","by.mts.tests.FullPaymentBlockTest","","by.mts.tests.FullPaymentBlockTest","testFullPaymentFlow","Полный сценарий оплаты услуг связи","Заполнение формы, отправка и проверка модального окна оплаты"
