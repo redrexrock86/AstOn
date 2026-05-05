@@ -1,9 +1,0 @@
-by/mts/tests/AboutServiceLinkTest.class
-by/mts/support/WebDriverFactory.class
-by/mts/pages/TopUpNoCommissionBlock.class
-by/mts/pages/HomePage.class
-by/mts/pages/PaymentConfirmationPage.class
-by/mts/tests/ContinueButtonTest.class
-by/mts/tests/BlockTitleTest.class
-by/mts/pages/TopUpNoCommissionBlock$ContinueResult.class
-by/mts/support/BaseUiTest.class
